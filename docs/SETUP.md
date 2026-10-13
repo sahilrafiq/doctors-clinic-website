@@ -24,7 +24,7 @@ You will use three services:
 ## Part 2: Create the doctor's login
 
 1. Left menu → **Authentication** → **Users** → **Add user** → **Create new user**.
-2. Email: `salikrafiq@gmail.com`. Password: a strong one (12+ characters, not `doctor123`). Tick **Auto Confirm User**. Click **Create**.
+2. Email: `eg@gmail.com`. Password: a strong one (12+ characters, not `eg123`). Tick **Auto Confirm User**. Click **Create**.
 3. Go to **Authentication** → **Sign In / Providers** → open **Email**. Turn **"Allow new users to sign up" OFF** and save. This stops anyone else creating an account.
 4. (For the "email me a code" option to arrive reliably) **Authentication** → **Emails/SMTP** → set up a sender (for example a free Brevo or Resend account). The password login works without this.
 
